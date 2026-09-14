@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello! I'm Ishan, an aspiring coder who plans to pursue a career in engineering. I am currently in the Elite 101 course and plan to hone my coding, software, and communication skills to create impactful projects and solve real-world problems.
 
 <!--
 **ishandawady-code/ishandawady-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
